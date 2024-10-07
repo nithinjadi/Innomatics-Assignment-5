@@ -1,0 +1,48 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #f8f9fa;
+}
+
+.hero img{
+    width:1100px;
+    height: 600px;
+}
+.hero {
+    background-color: #81d4ed;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.content-section {
+    padding: 50px 0;
+}
+
+
+.gallery img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+
+footer {
+    background-color: #1473d1d2;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;
+    margin: 0 10px;
+}
